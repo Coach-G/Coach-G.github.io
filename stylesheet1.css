@@ -73,12 +73,18 @@
 }
   
 #warmupTitle {
-    position: absolute;
-    left: 32%;
+  text-align: center;
 }
 
 
+.container {
+   text-align: center!important;
+}
 
-.col-sm-8 col-md-7 py-4 {
- width:;
+iframe {
+  height: 250px;
+}
+
+.album py-5 bg-light {
+  padding-top: 5px;
 }
