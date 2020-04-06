@@ -67,17 +67,20 @@
     transform: rotate(45deg);
   }
 
-.row {
-    padding-top: 100px;
 
-}
+
+
+
   
 #warmupTitle {
+  padding: 50px;
   text-align: center;
 }
 
 
 .container {
+
+   
    text-align: center!important;
 }
 
@@ -85,6 +88,7 @@ iframe {
   height: 250px;
 }
 
-.album py-5 bg-light {
-  padding-top: 5px;
+.album py-5 bg-dark{
+  border: 100px solid white;
 }
+
